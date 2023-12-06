@@ -1,3 +1,4 @@
+// Example of working with DOM
 <!DOCTYPE html>
 <html lang="en">
 <head>
